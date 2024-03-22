@@ -1,0 +1,16 @@
+season : '2324'
+result_table_name : 'prediction_results'
+
+scraping :
+    PremierLeague : 'https://www.skysports.com/premier-league-fixtures'
+    Bundesliga : 'https://www.skysports.com/bundesliga-fixtures'
+    SerieA : 'https://www.skysports.com/serie-a-fixtures'
+    LaLiga : 'https://www.skysports.com/la-liga-fixtures'
+    Ligue1 : 'https://www.skysports.com/ligue-1-fixtures'
+
+csv_name :
+    Bundesliga : '/D1.csv'
+    PremierLeague : '/E0.csv'
+    Ligue1 : '/F1.csv'
+    LaLiga : '/SP1.csv'
+    SerieA : '/I1.csv'
